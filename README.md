@@ -1,6 +1,6 @@
 #Cainiao learning and code
 
-Contents: http://www.biotrainee.com/forum.php?mod=viewthread&tid=1075#lastpost
+Contents: http://www.biotrainee.com/forum.php?mod=viewthread&tid=1075
 
 Cainiao_1: Floor130 http://www.biotrainee.com/forum.php?mod=redirect&goto=findpost&ptid=3&pid=2033&fromuid=130
 
