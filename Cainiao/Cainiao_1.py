@@ -13,7 +13,7 @@ os.chdir("./Cainiao_1")
 #init
 exonLength = 0
 overlapExon = OrderedDict()
-#open
+#open and calculate 
 with open("CCDS.20160908.txt",'rt') as f:
 	for line in f:
 		if line.startswith("#"):
